@@ -1,1 +1,2 @@
 to add any local file to central repo you need to generate github classic token then with this command git remote set-url origin https://<token>@github/<username>/<repo>
+pull push commit from two diff linux server are done
